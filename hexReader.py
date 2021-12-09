@@ -5,8 +5,6 @@ print('''
 #              Convert any hex dump to a file                  #
 #                    Made by @unknownamd                       #
 #                      Hope it works!                          #
-#       You can Check the results using this online tool:      #
-#            https://codebeautify.org/xor-calculator           #
 #                                                              #
 ################################################################
 ''')
